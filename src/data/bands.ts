@@ -9,8 +9,8 @@ export const bands: Band[] = [
     imageUrl: "/images/bands/band-a.jpg",
     description: "An iconic Thai indie-dream pop female duo signed under the What The Duck record label.",
     members: [
-      { id: 1, name: "Landokmai Sripasang", role: "Lead vocalist", photoUrl: "/images/bands/LANDOKMAI/AntLandokmai.jpg" },
-      { id: 2, name: "Manassanan Kingkasem", role: "Lead guitarist", photoUrl: "/images/bands/LANDOKMAI/UpimLandokmai.jpg" },
+      { id: 1, name: "Landokmai Sripasang", role: "Lead vocalist", photoUrl: "/images/bands/LANDOKMAI/UpimLandokmai.jpg" },
+      { id: 2, name: "Manassanan Kingkasem", role: "Lead guitarist", photoUrl: "/images/bands/LANDOKMAI/AntLandokmai.jpg" },
     ],
   },
   {
